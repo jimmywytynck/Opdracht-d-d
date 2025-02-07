@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Fire Drake",
+      "description": "A fierce drake with scales as red as flame, known for its fiery breath.",
+      "hitPoints": 150,
+      "isLegendary": true,
+      "birthDate": "2020-05-14",
+      "imageUrl": "https://github.com/jimmywytynck/Opdracht-d-d/blob/main/adult-red-dragon.png?raw=true",
+      "type": "Dragon",
+      "abilities": ["Fly", "Breath Fire", "Immunity to Fire"],
+      "habitat": {
+        "id": 101,
+        "name": "Volcanic Mountains",
+        "temperature": "Very Hot",
+        "dangerLevel": 9,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Volcanic-Mountains.webp"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Shadow Stalker",
+      "description": "A creature that lurks in darkness, striking without warning.",
+      "hitPoints": 95,
+      "isLegendary": false,
+      "birthDate": "2018-10-22",
+      "imageUrl": "https://github.com/jimmywytynck/Opdracht-d-d/blob/main/shadowStalker.png?raw=true",
+      "type": "Aberration",
+      "abilities": ["Invisibility", "Shadow Step", "Darkvision"],
+      "habitat": {
+        "id": 102,
+        "name": "Eternal Nightwood",
+        "temperature": "Cold",
+        "dangerLevel": 8,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Eternal-Nightwood%20habitat.webp"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Stone Golem",
+      "description": "A massive construct carved from ancient stone, nearly indestructible.",
+      "hitPoints": 200,
+      "isLegendary": false,
+      "birthDate": "2010-03-08",
+      "imageUrl": "https://github.com/jimmywytynck/Opdracht-d-d/blob/main/stoneGolem.png?raw=true",
+      "type": "Construct",
+      "abilities": ["Earth Slam", "Magic Immunity", "Stone Skin"],
+      "habitat": {
+        "id": 103,
+        "name": "Ancient Ruins",
+        "temperature": "Temperate",
+        "dangerLevel": 6,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Ancient-Ruins%20.webp"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Forest Nymph",
+      "description": "A gentle spirit of the woods, protector of flora and fauna.",
+      "hitPoints": 70,
+      "isLegendary": false,
+      "birthDate": "2015-06-12",
+      "imageUrl": "https://github.com/jimmywytynck/Opdracht-d-d/blob/main/Forest-Nymph.png?raw=true",
+      "type": "Fey",
+      "abilities": ["Nature's Charm", "Regeneration", "Tree Meld"],
+      "habitat": {
+        "id": 104,
+        "name": "Enchanted Forest",
+        "temperature": "Mild",
+        "dangerLevel": 3,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Enchanted-Forest.webp"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Iron Behemoth",
+      "description": "A titanic war machine forged from iron and fueled by ancient magic.",
+      "hitPoints": 300,
+      "isLegendary": true,
+      "birthDate": "2012-11-01",
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Iron-Behemoth.webp",
+      "type": "Construct",
+      "abilities": ["Cannon Blast", "Iron Wall", "Self Repair"],
+      "habitat": {
+        "id": 105,
+        "name": "Wasteland Forge",
+        "temperature": "Scorching",
+        "dangerLevel": 10,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Wasteland-Forge.webp"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Frost Wyrm",
+      "description": "A serpentine dragon that freezes everything in its path.",
+      "hitPoints": 170,
+      "isLegendary": true,
+      "birthDate": "2019-01-30",
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Frost-Wyrm.webp",
+      "type": "Dragon",
+      "abilities": ["Ice Breath", "Freeze Aura", "Glacial Flight"],
+      "habitat": {
+        "id": 106,
+        "name": "Frozen Wastes",
+        "temperature": "Freezing",
+        "dangerLevel": 9,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Frozen-Wastes%20.webp"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Swamp Horror",
+      "description": "A grotesque amalgamation of tentacles and muck.",
+      "hitPoints": 120,
+      "isLegendary": false,
+      "birthDate": "2016-08-09",
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Swamp-Horror.webp",
+      "type": "Aberration",
+      "abilities": ["Tentacle Grab", "Poison Spit", "Amphibious"],
+      "habitat": {
+        "id": 107,
+        "name": "Mire of Despair",
+        "temperature": "Humid",
+        "dangerLevel": 7,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Mire-of-Despair.webp"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Crystal Phoenix",
+      "description": "A radiant bird of shimmering crystal, reborn from its own ashes.",
+      "hitPoints": 160,
+      "isLegendary": true,
+      "birthDate": "2021-04-22",
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Crystal-Phoenix.webp",
+      "type": "Celestial",
+      "abilities": ["Rebirth", "Crystal Shards", "Blinding Light"],
+      "habitat": {
+        "id": 108,
+        "name": "Skybound Peaks",
+        "temperature": "Cool",
+        "dangerLevel": 5,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Skybound-Peaks.webp"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Infernal Hound",
+      "description": "A demonic beast with eyes of fire and a howl that chills the soul.",
+      "hitPoints": 130,
+      "isLegendary": false,
+      "birthDate": "2017-12-15",
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Infernal-Hound.webp",
+      "type": "Fiend",
+      "abilities": ["Flame Pounce", "Howl of Fear", "Infernal Endurance"],
+      "habitat": {
+        "id": 109,
+        "name": "Hellfire Canyons",
+        "temperature": "Burning",
+        "dangerLevel": 8,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Hellfire-Canyons.webp"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Void Sentinel",
+      "description": "A guardian of the abyss, wielding the power of the void.",
+      "hitPoints": 190,
+      "isLegendary": true,
+      "birthDate": "2023-02-18",
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Void-Sentinel.webp",
+      "type": "Elemental",
+      "abilities": ["Void Blast", "Phase Shift", "Abyssal Ward"],
+      "habitat": {
+        "id": 110,
+        "name": "Abyssal Rift",
+        "temperature": "Unstable",
+        "dangerLevel": 10,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Abyssal-Rift.webp"
+      }
+    }
+  ]
+  
