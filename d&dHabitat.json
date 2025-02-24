@@ -1,0 +1,73 @@
+[    
+    {
+      "id": 105,
+      "name": "Wasteland Forge",
+      "temperature": "Scorching",
+      "dangerLevel": 10,
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Wasteland-Forge.webp"
+    },
+    {
+        "id": 102,
+        "name": "Eternal Nightwood",
+        "temperature": "Cold",
+        "dangerLevel": 8,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Eternal-Nightwood%20habitat.webp"
+    },
+    {
+        "id": 103,
+        "name": "Ancient Ruins",
+        "temperature": "Temperate",
+        "dangerLevel": 6,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Ancient-Ruins%20.webp"
+    },
+    {
+        "id": 104,
+        "name": "Enchanted Forest",
+        "temperature": "Mild",
+        "dangerLevel": 3,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Enchanted-Forest.webp"
+    },
+    {
+        "id": 105,
+        "name": "Wasteland Forge",
+        "temperature": "Scorching",
+        "dangerLevel": 10,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Wasteland-Forge.webp"
+    },
+    {
+        "id": 106,
+        "name": "Frozen Wastes",
+        "temperature": "Freezing",
+        "dangerLevel": 9,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Frozen-Wastes%20.webp"
+    },
+    {
+        "id": 107,
+        "name": "Mire of Despair",
+        "temperature": "Humid",
+        "dangerLevel": 7,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Mire-of-Despair.webp"
+    },
+    {
+        "id": 108,
+        "name": "Skybound Peaks",
+        "temperature": "Cool",
+        "dangerLevel": 5,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Skybound-Peaks.webp"
+    },
+    {
+        "id": 109,
+        "name": "Hellfire Canyons",
+        "temperature": "Burning",
+        "dangerLevel": 8,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Hellfire-Canyons.webp"
+    },
+    {
+        "id": 110,
+        "name": "Abyssal Rift",
+        "temperature": "Unstable",
+        "dangerLevel": 10,
+        "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Abyssal-Rift.webp"
+    }
+
+]
