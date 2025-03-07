@@ -1,10 +1,10 @@
 [    
     {
-      "id": 105,
-      "name": "Wasteland Forge",
-      "temperature": "Scorching",
-      "dangerLevel": 10,
-      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Wasteland-Forge.webp"
+      "id": 101,
+      "name": "Volcanic Mountains",
+      "temperature": "Very Hot",
+      "dangerLevel": 9,
+      "imageUrl": "https://raw.githubusercontent.com/jimmywytynck/Opdracht-d-d/refs/heads/main/Volcanic-Mountains.webp"
     },
     {
         "id": 102,
